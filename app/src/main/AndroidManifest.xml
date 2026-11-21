@@ -6,8 +6,7 @@
         android:allowBackup="false"
         android:label="ForestDexter Tap"
         android:theme="@android:style/Theme.Material.NoActionBar"
-        android:usesCleartextTraffic="false"
-        android:icon="@android:drawable/sym_def_app_icon">
+        android:usesCleartextTraffic="false">
 
         <activity
             android:name=".MainActivity"
